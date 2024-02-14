@@ -2,4 +2,24 @@
     <string name="app_name">Zoe\'s Android Labs</string>
     <string name="hello_message">Hello world!</string>
     <string name="button_message">I\'m a button</string>
+    <string name="enter_your_email_address">Enter your email address:</string>
+    <string name="type_email_here">Type email here</string>
+    <string name="type_your_password">Type your password:</string>
+    <string name="login">LOGIN</string>
+    <string name="call_number">CALL NUMBER</string>
+    <string name="change_picture">CHANGE PICTURE</string>
+    <string name="bitmap_filename" translatable="false">Picture.png</string>
+    <string name="TAG" translatable="false">MainActivity</string>
+    <string name="pref_filename" translatable="false">MyData</string>
+    <string name="on_create_message">In onCreate() - Loading Widgets</string>
+    <string name="on_start_message">In onStart() - The application is now visible on screen.</string>
+    <string name="on_resume_message">In onResume() - The application is now responding to user input.</string>
+    <string name="on_pause_message">In onPause() - The application no longer responds to user input.</string>
+    <string name="on_stop_message">In onStop() - The application is no longer visible.</string>
+    <string name="on_destroy_message">In onDestroy() - Any memory used by the application is freed.</string>
+    <string name="login_variable_name" translatable="false">LoginName</string>
+    <string name="intent_email_variable_name" translatable="false">EmailAddress</string>
+    <string name="welcome_message_template">Welcome back %s</string>
+    <string name="phone_number_variable_name" translatable="false">PhoneNumber</string>
+    <string name="call_uri_format" translatable="false">tel:%s</string>
 </resources>
