@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Zoe\'s Android Labs</string>
-    <string name="hello_message">Hello world!</string>
-    <string name="button_message">I\'m a button</string>
+    <string name="button_message">Login</string>
+    <string name="type_your_password">Type your Password:</string>
+    <string name="your_password_meets_the_requirements">Your password meets the requirements</string>
+    <string name="you_shall_not_pass">You shall not pass!</string>
 </resources>

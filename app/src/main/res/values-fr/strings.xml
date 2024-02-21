@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Zoe\'s Android Labs</string>
-    <string name="hello_message">Bonjour tout le monde!</string>
     <string name="button_message">Je suis un bouton</string>
+    <string name="type_your_password">Tapez votre mot de passe :</string>
+    <string name="your_password_meets_the_requirements">Votre mot de passe satisfait aux exigences</string>
+    <string name="you_shall_not_pass">Vous ne passerez pas !</string>
 </resources>
