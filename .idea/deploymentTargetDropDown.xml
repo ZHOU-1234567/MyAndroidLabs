@@ -2,7 +2,19 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
+      <entry key="MainActivityTest">
+        <State />
+      </entry>
+      <entry key="Tests in 'algonquin.cst2335.zhou0232'">
+        <State />
+      </entry>
       <entry key="app">
+        <State />
+      </entry>
+      <entry key="testFindMissingAnyCharacterType()">
+        <State />
+      </entry>
+      <entry key="testFindMissingUpperCase()">
         <State />
       </entry>
     </value>
